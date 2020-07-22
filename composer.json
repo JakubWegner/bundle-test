@@ -3,6 +3,5 @@
   "version": "1.0.0",
   "type": "project",
   "license": "MIT",
-  "require": {
-  }
+  "description": "bundle test"
 }
