@@ -1,4 +1,5 @@
 {
     "name": "jakubwegner/bundle-test",
-    "type": "project"
+    "type": "project",
+    "version": "1.0.0"
 }
